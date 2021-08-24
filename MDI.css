@@ -1928,7 +1928,7 @@
 
 .MDI.keyboard-variant:before { content: "\e9b9"; }
 
-.MDI.label:before { content: "\e9ba"; }
+.MDI.label-black:before { content: "\e9ba"; }
 
 .MDI.kodi:before { content: "\e9bb"; }
 
